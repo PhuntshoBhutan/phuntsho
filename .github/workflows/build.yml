@@ -4,7 +4,7 @@ on:
             - main
     pull_request:
         branches:
-            - gh-pages
+            - main
 
 name: build
 jobs:
